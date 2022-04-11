@@ -7,4 +7,8 @@ public class HelloGit {
         System.out.println("测试idea git");
         System.out.println("测试idea git");
     }
+    public void test(){
+        int i=0;
+        i+=10;
+    }
 }
